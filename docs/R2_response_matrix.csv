@@ -1,0 +1,17 @@
+﻿ID,Issue,Status,Location,Resolution_and_boundary
+R2-01,Evaluation outcomes in later updates,Completed,Main 3.2–3.3; Supplement S2/S3,Corrected time wording; earlier evaluation labels may enter later eligible updates. Predictions stay immutable.
+R2-02,"Three core contrasts, both scores",Completed,Main Table 3/Figure 2; Supplement S16–S19/S43–S51,"All three contrasts independently paired; point contrasts add, interval endpoints do not."
+R2-03,Update contrast across block lengths/backbones,Completed,Main 4.5; Supplement S43–S48,Core/Restricted/CatBoost Expanding−Frozen at 3/7/14 days; no marginal-significance comparison.
+R2-04,Frozen in O2/O3 trajectories,Completed,Main Figure 4/4.4; Supplement Figures S3–S4 and S25–S26,"Frozen means, intercept and segment update losses reconstructed from archived scores."
+R2-05,Absolute backbone quality and effects,Completed,Supplement S52–S56; evidence/r2/cross_backbone_effects.csv,Raw/Frozen/Expanding absolute scores and paired alternative-minus-Core differences of effects.
+R2-06,Unknown outcome update bounds,Completed,Main 3.4/4.5; Supplement S57–S62,Archived Frozen intercept restored on extra scorable records; no refitting or future-label updates.
+R2-07,Follow-up clock and repeated sets,Completed,Main 3.4; Supplement S6/S9.4,H−approval in elapsed days; H is only a proxy. Identical threshold cohorts explicitly identified; bounds are not CIs.
+R2-08,Reproduction delivery,Scoped completion,Repository README; Supplement S8; source notes,139 aggregate evidence files and runnable public table entry delivered; private records separate; not every original-data path rerun.
+R2-09,Figure 1 preservation,Completed,Main original Figure 1; notes/figure1_preservation.json,"PDF, PPT and LaTeX figure block hashes unchanged. Frozen-LR clarification is outside figure."
+R2-10,All supplementary tables three-line,Completed,Supplement Tables S1–S62,"Native editable tables; only top/header-bottom/bottom rules, no shading or vertical/internal rules."
+R2-11,Sparse bins and difference scale,Completed,Main Figures 2/3/5; Supplement S5,"Low-probability view, hollow n<50 display; full-range support retained. Brier contrasts displayed in 10^-3 units."
+R2-12,PeriodicLR and payment statement,Completed,Main 3.1/3.3; Supplement S2/S3,Expanding fit history and original-approval feature time clarified; retained core pipeline uses no payment features; earlier text corrected.
+R2-13,Bibliography and headers,Completed,Main running title/references; Supplement source list,"L. Wu unified, CatBoost original paper added; no author/funding identity invented."
+R2-14,Author and ethics metadata,Author confirmation pending,metadata.tex; Cover Letter,"Names, affiliations, funding, conflicts, originality and exact AI-use scope must be verified by authors."
+R2-15,Independent same-target confirmation,Not newly available,Limitations,Retrospective records remain previously inspected; no prospective validation or ingestion log fabricated.
+R2-16,Public GitHub release/license,Pending author action,Repository README/CITATION_TEMPLATE,Candidate v0.3.0 only; remote CI and repository publication not claimed.

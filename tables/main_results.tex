@@ -1,0 +1,12 @@
+\begin{table*}[!t]
+\caption{Brier scores in the S1 four-origin completed-delivery cohort. TrainConst uses the corresponding training prevalence; PoolRate uses the same daily admitted history as Expanding. Lower scores are better. Values are rounded after full-precision calculation; no cross-origin pooling is used.}
+\label{tab:main}\centering\footnotesize\setlength{\tabcolsep}{6pt}
+\begin{tabular}{lrrrrrrrr}\toprule
+Origin & TrainConst & Raw & Frozen & Expanding & PoolRate & Platt & BrierOpt & PeriodicLR\\\midrule
+O1 & 0.039778 & 0.040799 & 0.039646 & 0.039368 & 0.039867 & 0.039466 & 0.039514 & 0.039631 \\
+O2 & 0.063681 & 0.063253 & 0.062856 & 0.067109 & 0.063905 & 0.064407 & 0.065662 & 0.063569 \\
+O3 & 0.109368 & 0.099942 & 0.104134 & 0.103802 & 0.110604 & 0.104355 & 0.104594 & 0.105671 \\
+O4 & 0.021702 & 0.018967 & 0.018742 & 0.018856 & 0.020466 & 0.018868 & 0.018873 & 0.018699 \\
+\bottomrule\end{tabular}
+\begin{flushleft}\footnotesize PeriodicLR refits the base model at evaluation start and day 30; unlike the other columns, it changes the backbone updating policy. Complete log loss, AP, probability means and paired intervals are in Supplement S4.\end{flushleft}
+\end{table*}

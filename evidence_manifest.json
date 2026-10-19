@@ -1,0 +1,697 @@
+[
+  {
+    "path": "evidence/S1_loss_decomposition.csv",
+    "sha256": "15c0e4213c0ebfa8b78d9a453c35203568ded0c9503cdae2e949c090d8bed0e7",
+    "bytes": 340
+  },
+  {
+    "path": "evidence/auxiliary/E12_monthly_label_audit.csv",
+    "sha256": "331f89c9b45d3b3ab55a2d99e8e7b47c63bed9f888461acc607ef44e58176c54",
+    "bytes": 578
+  },
+  {
+    "path": "evidence/auxiliary/E13_L0_pool_summary.csv",
+    "sha256": "26a0a03e2659ec280279e08b1a8845c65f2085bde0eb32f83fac5564d7b227d6",
+    "bytes": 2096
+  },
+  {
+    "path": "evidence/auxiliary/E13_L30_pool_summary.csv",
+    "sha256": "8e54fc7dc45639bf656d8e01e407a4da0deff2cf41998284bd68fef097a01baa",
+    "bytes": 2076
+  },
+  {
+    "path": "evidence/auxiliary/E13_L5_pool_summary.csv",
+    "sha256": "861589b4ecd347d69db26328655c7c384ee6d64bd2b3ceec06364e9d9b18e64c",
+    "bytes": 2093
+  },
+  {
+    "path": "evidence/auxiliary/E13_metric_intervals.csv",
+    "sha256": "722aae6a424fc9e79122687625e02f1136d4aef12b379199122606625d29eae7",
+    "bytes": 44744
+  },
+  {
+    "path": "evidence/auxiliary/E13_metrics.csv",
+    "sha256": "54068804ce4134fe8de3d81181b2944d0d13f311ee06936915de82a6d808299e",
+    "bytes": 8977
+  },
+  {
+    "path": "evidence/auxiliary/E13_paired_intervals.csv",
+    "sha256": "b4278b419513ec444b06935d897f3eae93bb8483ee7161ecfb30a7d6c9943194",
+    "bytes": 41391
+  },
+  {
+    "path": "evidence/auxiliary/E13_pool_summary.csv",
+    "sha256": "5313add2f1c936cf887f8da262e271748035e2f11ab172587fb66872461c0e6d",
+    "bytes": 5249
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_deadline_closed_development_metrics.csv",
+    "sha256": "ad5877ee23ffc08bf3469eeac40b2cba5a8326b692bcf64626921c43558fe7b5",
+    "bytes": 6024
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_deadline_closed_development_pairs.csv",
+    "sha256": "2214f835483e97e4df024e47d4998881f02e031ca772cca0cea41b1bcc6f5c2f",
+    "bytes": 15927
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_deadline_closed_test_stress_metrics.csv",
+    "sha256": "cffe830c73376e27b54a83f5983ff63334e08ea425c4261c8eb10220c796de91",
+    "bytes": 11493
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_deadline_closed_test_stress_pairs.csv",
+    "sha256": "229aeb166cb818ce67f8388bee191ca639bea1b60de89079312021f31a392335",
+    "bytes": 30434
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_deadline_closed_update_log.csv",
+    "sha256": "784d3305053f12d8bfd6cbadccdb2687e1dcdd59d0c4409a196c8dd8376956a5",
+    "bytes": 244262
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_observed_development_metrics.csv",
+    "sha256": "433914a5528f164fb9676426b9b97cffe1742b30201fc500e0d83f1607f3550a",
+    "bytes": 5845
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_observed_development_pairs.csv",
+    "sha256": "4840712f27aba7160c1047a1959e62c25de99aa685939712e868ddb3e6d278b8",
+    "bytes": 15309
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_observed_test_stress_metrics.csv",
+    "sha256": "9dc3708462fed08a9ce269ecb7102421d9dbc8e58ea89035c8761654f13fd1c7",
+    "bytes": 11153
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_observed_test_stress_pairs.csv",
+    "sha256": "e30957dd152671bbf56badaebd9178c25dffe82bfe71cba1265b3db6a2cc9626",
+    "bytes": 29009
+  },
+  {
+    "path": "evidence/auxiliary/E8_add_same_day_observed_update_log.csv",
+    "sha256": "50d2a042dc764dd71b25d42f74e8e225fe5087c3b7d1e3daa65e12df582c0215",
+    "bytes": 242125
+  },
+  {
+    "path": "evidence/auxiliary/E8_admission_pairs.csv",
+    "sha256": "c4d4f8f53302458f1f24ef4a60ea357c265289f8d3629c975fc0d8d97988367b",
+    "bytes": 50410
+  },
+  {
+    "path": "evidence/auxiliary/E8_feature_specification.csv",
+    "sha256": "19fc8774977637546782683613837913ed7530c19a3aeddd0e6b5059d67e901b",
+    "bytes": 1894
+  },
+  {
+    "path": "evidence/auxiliary/E8_group_label_structure.csv",
+    "sha256": "88d90ea2d0fb72853bc4e263b40f2b70e8a28dd91e6ddbcd5089557c7b79a2fd",
+    "bytes": 330
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_deadline_closed_development_metrics.csv",
+    "sha256": "d08465c935edb48ebfdd0be0a3d991ca51896931b149ab8741a73c05fdad2dcd",
+    "bytes": 9595
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_deadline_closed_development_pairs.csv",
+    "sha256": "a2b5f8baf2e1b6719b2bc5122da783d9f86640b4b8395d12df33a29df49f7f03",
+    "bytes": 24760
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_deadline_closed_test_stress_metrics.csv",
+    "sha256": "3a5878f4e7b1e7b8ebcb73ef21c0d078a00ffc8cb9be22bdb7e1717054441c6f",
+    "bytes": 18379
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_deadline_closed_test_stress_pairs.csv",
+    "sha256": "8b4a30ce0515037d512422736729942f6ac8226a50ba87fcb9af95b15366597a",
+    "bytes": 46412
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_deadline_closed_update_log.csv",
+    "sha256": "8bea3f31901a1eec77247d00ed621071a4824e2fbb08f76c5d9fdd2f771b18b6",
+    "bytes": 222223
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_observed_development_metrics.csv",
+    "sha256": "cdb1cdad3704c93968f527cea5a0428f7c275f32f30326b7b63f0d96f188b926",
+    "bytes": 9316
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_observed_development_pairs.csv",
+    "sha256": "73fc1b39f9e82d61f9918655b29c7ccce71bfd72472159e654425f6a5118d33b",
+    "bytes": 23624
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_observed_test_stress_metrics.csv",
+    "sha256": "ff0b0d355c49d124602a41c4117bd15a830d6e7a1b906372e9d1cdcde350f0b1",
+    "bytes": 17832
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_observed_test_stress_pairs.csv",
+    "sha256": "27d7fdc9efaf529d7ed30458d1e5699c3a90e70ca99d15e3c40589e2e09cf15c",
+    "bytes": 44164
+  },
+  {
+    "path": "evidence/auxiliary/E8_main_observed_update_log.csv",
+    "sha256": "f44c87c8d177aae235a36125c0ce8ac2f0626fb451aff683a190fc0329feb436",
+    "bytes": 220121
+  },
+  {
+    "path": "evidence/auxiliary/E8_split_counts.csv",
+    "sha256": "2bec4d09dd03c9a6459bec2e2625c635b1afaf7ab9f36901987356e9956bc3a5",
+    "bytes": 942
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_deadline_closed_metrics.csv",
+    "sha256": "1f4f19ae6152f1e139acf1162a2601d6efa731ef46360ac51573ebb47332197c",
+    "bytes": 7777
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_deadline_closed_pairs.csv",
+    "sha256": "4d2c9831e0fbd58f73f27761f34a6e27ac608d5f4bac799384f7c71fb48a8723",
+    "bytes": 19773
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_deadline_closed_update_log.csv",
+    "sha256": "8d46210dcc0ba1f824eb2eed135b48f2482e94955e850e59adb2ba386ea07285",
+    "bytes": 112512
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_observed_metrics.csv",
+    "sha256": "6e49e9b18079e8e24c1f540a50fcf0cbf998b184c08fcb7956511c45db5f4aef",
+    "bytes": 7522
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_observed_pairs.csv",
+    "sha256": "dd1b76fc1660c560d57c2e5ace0dabdf6058a26d412cb7308178627b10fd0593",
+    "bytes": 18740
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_observed_update_log.csv",
+    "sha256": "a86d3c973ff690ae22f179e99c041ca8b8c4c20c5647fa977cd3d7506006a62f",
+    "bytes": 110253
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_CatBoost_tuning.csv",
+    "sha256": "25a1502b78068d5e95c365fd1038a23dd024686f25500edf4de346a07ceb419c",
+    "bytes": 929
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_deadline_closed_metrics.csv",
+    "sha256": "6dbc69018a527108bc0f0fce5f998b3c150d267b56ff32fd8769a3bb4fe59f1a",
+    "bytes": 7832
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_deadline_closed_pairs.csv",
+    "sha256": "c7e27ad7948d8680b71143aef07979376bd88d9ee3b372f57653dd51e92fab08",
+    "bytes": 19622
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_deadline_closed_update_log.csv",
+    "sha256": "c85cc64160361bf976ce120bf743e7c593e96f48bd29546a34ad7c25e1486774",
+    "bytes": 112940
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_observed_metrics.csv",
+    "sha256": "5813565833af870cd6ef0c5c6f35602f5b73142719b2a21ebcf459b14383c953",
+    "bytes": 7588
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_observed_pairs.csv",
+    "sha256": "3c8f0e66b7bda8a390ab5785ddadd0466301f01051a3160d977803739dd9b1e6",
+    "bytes": 18597
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_observed_update_log.csv",
+    "sha256": "d9813a9604fd83f72dc88a2f964ff9beeefe31d970dd6d0e3d88c22124edf0a3",
+    "bytes": 110700
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LR_tuned_tuning.csv",
+    "sha256": "a79b1cc7b9068e9af59b8a291847520a08938845a67f506f6308f63b7146d834",
+    "bytes": 725
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_deadline_closed_metrics.csv",
+    "sha256": "96412a6a6e272440244228b1fcc99b0f352134d7aff5fb34e24bd468c32f40b6",
+    "bytes": 7821
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_deadline_closed_pairs.csv",
+    "sha256": "e19d5dbae98eaf2bc23da4ada82032969715926c195812466f510bc5d787b1e1",
+    "bytes": 19749
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_deadline_closed_update_log.csv",
+    "sha256": "10b2012b297e1e8e325dd9ea3c78bbdcece94e2976f95f34a17b1cd0758e56b7",
+    "bytes": 112519
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_observed_metrics.csv",
+    "sha256": "faf72714966a6df905ad91dfa0b614ef6fa241816dd73e865457be8d9438fd28",
+    "bytes": 7564
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_observed_pairs.csv",
+    "sha256": "3733fb76f44f63acf246579fe0a05312d3d1a5a52a67bcc441fe3db54b0fabd9",
+    "bytes": 18741
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_observed_update_log.csv",
+    "sha256": "2fe305806d617092162e818c1c83aabb5b94eb8986371372b8a44d20981dc4f1",
+    "bytes": 110325
+  },
+  {
+    "path": "evidence/auxiliary/E9_DataCo_LightGBM_tuning.csv",
+    "sha256": "84f3bab9dc480fe57537f71fe2eb8d49a32288e0aa8e9e599b25325aa48f0739",
+    "bytes": 1032
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_CatBoost_deadline_closed_metrics.csv",
+    "sha256": "3ef2e34b9bb264948c1dd66ba1bb75c22d1e8b270f9dc96e2a998762167764de",
+    "bytes": 16774
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_CatBoost_deadline_closed_pairs.csv",
+    "sha256": "6af6221584017105ae45aeaab13ba0d1f59fddd37e5dd7755cc6cf0ef2ff073b",
+    "bytes": 42107
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_CatBoost_deadline_closed_update_log.csv",
+    "sha256": "3f6340d69fa09d7e33ae2e36c52716d2e0369fb990a2002dd721f750339727d4",
+    "bytes": 65934
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_CatBoost_tuning.csv",
+    "sha256": "7c801a0a547a361d82920484a88a530fd1670fe632daa755c7323c40853e2b6d",
+    "bytes": 956
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LR_tuned_deadline_closed_metrics.csv",
+    "sha256": "fa861820bdccebe773d04bd605fe9691f15601daf3605b871c6bf9d9ef0edfb0",
+    "bytes": 16677
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LR_tuned_deadline_closed_pairs.csv",
+    "sha256": "d3153e0035046b2eabe98b8af869ab9de5ce4292cae554e809e31a3812cb6ca4",
+    "bytes": 42479
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LR_tuned_deadline_closed_update_log.csv",
+    "sha256": "29b5c4666392cc5b17c04a5ceda48fd9195879a1c24c9f6a8ab452f4f061f9a2",
+    "bytes": 65775
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LR_tuned_tuning.csv",
+    "sha256": "792bdd088601f06f641d6c1b819833473f4811e7d8f7ce16e231c8a6f6c60a78",
+    "bytes": 753
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LightGBM_deadline_closed_metrics.csv",
+    "sha256": "e26e229137faaa08fda14cf3f54800fc222cb01648eb3828c20c8bc00a45b0ea",
+    "bytes": 16802
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LightGBM_deadline_closed_pairs.csv",
+    "sha256": "5c270915e9a8b15869795a3bfa5d5e79ea3c22b77ba20dcba0e0304ac453adbb",
+    "bytes": 42714
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LightGBM_deadline_closed_update_log.csv",
+    "sha256": "cc393daa44abf22a4880188d47bb00a8a67bbeb968b530f762d16987db3b728d",
+    "bytes": 65886
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_deadline_LightGBM_tuning.csv",
+    "sha256": "d3c9724c4d89fbbd2de0c00c420d2314ddeb0c3c1fc347953a4f34dda8798d96",
+    "bytes": 1058
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_CatBoost_age30_metrics.csv",
+    "sha256": "b5a0b808e3213f70eff85053985e2366c521aeca7cad313e33b99455a977472e",
+    "bytes": 16092
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_CatBoost_age30_pairs.csv",
+    "sha256": "7d6ac3fbb152faddf40b83f49e4bb0a67c0b11f3d3c03b4f7368ec9a00455e7b",
+    "bytes": 39750
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_CatBoost_age30_update_log.csv",
+    "sha256": "d43f1a570d5c864c518970c0019b972dc360297e07c6915d81b516b27f4a500a",
+    "bytes": 64040
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_CatBoost_tuning.csv",
+    "sha256": "f83d36e5e93afb9de4914780e0d3f31fa405325e4cf32305194da4923b058e64",
+    "bytes": 958
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LR_tuned_age30_metrics.csv",
+    "sha256": "3b9cdeb4a1f910e2cad814a145e5f4bf7a0cd541db11d2964061a85dfc1daeea",
+    "bytes": 16033
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LR_tuned_age30_pairs.csv",
+    "sha256": "4c9c45208d37c66e87fd7e691ac9369d004637e6de33b42346f0be3b71874a4c",
+    "bytes": 39506
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LR_tuned_age30_update_log.csv",
+    "sha256": "db06e60d4a892bf2763ed264992da5454254591da7ee22107d7bd9fec626f73f",
+    "bytes": 63997
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LR_tuned_tuning.csv",
+    "sha256": "123b43b7623b325f54e251d506ceb2677c8852bf6b5811b966f2eef7e0c35f09",
+    "bytes": 757
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LightGBM_age30_metrics.csv",
+    "sha256": "f73117f185386e8f746a243497c9450812041c1c267ff6b24c5ce68ef1801d69",
+    "bytes": 16129
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LightGBM_age30_pairs.csv",
+    "sha256": "c872b894b054740dbeed60e781ce25c422b8ad6e005076d4f2e27e928e9ba6d1",
+    "bytes": 39833
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LightGBM_age30_update_log.csv",
+    "sha256": "39b31c6229b768e022762725754bc2c8031bf2299b0b1448ab640fae7d9d2516",
+    "bytes": 64048
+  },
+  {
+    "path": "evidence/auxiliary/E9_Olist_delivered_LightGBM_tuning.csv",
+    "sha256": "82f60d4d9c516ae1da61720d28e836add79b2781b35421fdc5fe731c0458b945",
+    "bytes": 1062
+  },
+  {
+    "path": "evidence/auxiliary/E9_all_tuning_trials.csv",
+    "sha256": "835282619dac2862d3c47efbb8dca45f895266ff202eec0bcd8bd4916600abb5",
+    "bytes": 6714
+  },
+  {
+    "path": "evidence/auxiliary/E9_selected_models.csv",
+    "sha256": "cb7fc78a1924196f18d88a665fdf7ba7016ebca149cc0eced01402be1d43a78d",
+    "bytes": 3535
+  },
+  {
+    "path": "evidence/calendar.csv",
+    "sha256": "803bf39013aaee7ecc41b12b44a552b3cdd8432c75205327d54bd0e2999dd3ab",
+    "bytes": 8470
+  },
+  {
+    "path": "evidence/dataco.csv",
+    "sha256": "559c79df28348c0d4eac39a9b7eaff6d7eec1f795b3f3469c5eeb0c239224a2d",
+    "bytes": 1379
+  },
+  {
+    "path": "evidence/derived/Core_update_pools_aggregate.csv",
+    "sha256": "4a3b4f76b94b0da0bd6bfb185407d7b1fde532f35487cb6bf1c62a04f1577542",
+    "bytes": 231667
+  },
+  {
+    "path": "evidence/derived/S1_daily_diagnostics.csv",
+    "sha256": "be33288dc872acce9baea15390649cc3a4d191882a8a6c271df92429fb5eb428",
+    "bytes": 59788
+  },
+  {
+    "path": "evidence/derived/S1_loss_components.csv",
+    "sha256": "e0ff90502c29bc53ab2f1f155df5cb722b22bc4a78cfe93b197eea67738af265",
+    "bytes": 652
+  },
+  {
+    "path": "evidence/derived/S1_weekly_diagnostics.csv",
+    "sha256": "722e727d83ef37261687758132a7283a03818112124578ec7923b7974b0e5be3",
+    "bytes": 10288
+  },
+  {
+    "path": "evidence/derived/training_constant.csv",
+    "sha256": "79a1e9daa205c69d4fb4be2d6557bcd72dd02753a0c9d412318b954a7fa35ed0",
+    "bytes": 277
+  },
+  {
+    "path": "evidence/e17/calibration_intercept_slope_diagnostics.csv",
+    "sha256": "f032190c79bd29fd79a2d569a041f7fda465d8d1649d5b0f1020aa7dc26d118e",
+    "bytes": 2589
+  },
+  {
+    "path": "evidence/e17/decision_list_changes.csv",
+    "sha256": "241622a6fe0a2da1444da3d1eb835af1172b135801a4ecf64ccea5e50a40ac62",
+    "bytes": 2262
+  },
+  {
+    "path": "evidence/e17/decision_metrics.csv",
+    "sha256": "8956e0852b6e8e3c12c40c95d9bc4480e8d07dc130bcaf0d6db6ce298f3bd720",
+    "bytes": 4217
+  },
+  {
+    "path": "evidence/e17/expanded_cohort_flow.csv",
+    "sha256": "a06ead61ce457358b6ffd00c813c5c4af11df09f395b5328d95728a040e4c45d",
+    "bytes": 184
+  },
+  {
+    "path": "evidence/e17/manuscript_S1_complete_main_table.csv",
+    "sha256": "7dd965962545cfc0f0df52f4a3e89fe980760faf14a2f2264b4e6d9d892c5a4a",
+    "bytes": 6628
+  },
+  {
+    "path": "evidence/e17/manuscript_primary_pairs_both_scores.csv",
+    "sha256": "76e8bf4a23e5511c18c2910137e6ca20aa28715d858cbe4d7a7de634b438a835",
+    "bytes": 7276
+  },
+  {
+    "path": "evidence/e17/metric_intervals.csv",
+    "sha256": "1783176e2418a9aaba23e4e3371362353d43eaa49c31cf410d215e814923238a",
+    "bytes": 61744
+  },
+  {
+    "path": "evidence/e17/metrics.csv",
+    "sha256": "89d2b5a61f2562a00b4c4b0381e25df7c6eccf42a44ff37e015f3022e9503cc8",
+    "bytes": 13221
+  },
+  {
+    "path": "evidence/e17/paired_intervals.csv",
+    "sha256": "9ae5a788430ea42957f7fbd05235b9c5533c561e6269b0bd939570897e6162b5",
+    "bytes": 133849
+  },
+  {
+    "path": "evidence/e17/reliability_bins_with_intervals.csv",
+    "sha256": "5f9204ea43c3dfcbf2db5a0e5b0bf8484a96beef9fdd16c2fbb9ed95368f6933",
+    "bytes": 15305
+  },
+  {
+    "path": "evidence/e17/robustness_backbone_feature_blocklength.csv",
+    "sha256": "43aaa56bd6d01ac7c719cc817b98bf487ba31b7927bc67f3595168e712014657",
+    "bytes": 6886
+  },
+  {
+    "path": "evidence/e17/solver_and_support_summary.csv",
+    "sha256": "57cf300e5a999ed833b621b6180cbea28b8d316593276b8daa8520cef73ea295",
+    "bytes": 4219
+  },
+  {
+    "path": "evidence/e17/training_boundary_checks.csv",
+    "sha256": "31030feded641adeb6d62e7d1d511908db1546475745b8911f355b6523c1d8c5",
+    "bytes": 1087
+  },
+  {
+    "path": "evidence/e17/unknown_outcome_bounds.csv",
+    "sha256": "c513175c7306328ebd623e84814404ba7dce0339e385277b69d7462263f33b44",
+    "bytes": 4379
+  },
+  {
+    "path": "evidence/lade.csv",
+    "sha256": "e1e4ef43135634d2bf26b5e4b16de415dff3fb0703bdedb5cb9e75df59b6ac88",
+    "bytes": 2887
+  },
+  {
+    "path": "evidence/lade_pairs.csv",
+    "sha256": "f7bfb195c8cd5bfe475cb57945a0c6cb0fab6abe27761c407b52f2bb80773423",
+    "bytes": 39864
+  },
+  {
+    "path": "evidence/main_S1.csv",
+    "sha256": "0d5532cc588a3d520f8bf5c67a7e95b0b5cd40d18f19904e3ba90536fd6c1998",
+    "bytes": 1529
+  },
+  {
+    "path": "evidence/metrics.csv",
+    "sha256": "82b18060b695a7eee565ceeeca378de379b749a6d5d8456f748a9ee75135926c",
+    "bytes": 3411
+  },
+  {
+    "path": "evidence/pairs.csv",
+    "sha256": "37e09966ad20e7653fffa8465d342e468063b1d6c6acfd02835edf6497bae99f",
+    "bytes": 1815
+  },
+  {
+    "path": "evidence/pool.csv",
+    "sha256": "87b7b6527254844d195f526f6af15594324272f285a786ec6d8a25d7317fe35c",
+    "bytes": 3742
+  },
+  {
+    "path": "evidence/protocols/E17_protocol_public.json",
+    "sha256": "88d4b46227d2227f58d41c0e26e4bbbb1daeb46fbc15e687391603301bad794e",
+    "bytes": 6349
+  },
+  {
+    "path": "evidence/protocols/LaDe_training_support.csv",
+    "sha256": "a18b60660287674a653c7e617abe668e13bd093814fde6b2e9ebce178f4765ed",
+    "bytes": 183
+  },
+  {
+    "path": "evidence/protocols/Olist_cohort_flow.csv",
+    "sha256": "06e71427829c89edcb06f2176dae7273197137601b434f83333f7f87b09b850f",
+    "bytes": 246
+  },
+  {
+    "path": "evidence/protocols/S1_training_support.csv",
+    "sha256": "2e6fbfc930997374c6b9dbe1f84c40adfcd5a817ab72a9b43b7363a75b2d1ab0",
+    "bytes": 393
+  },
+  {
+    "path": "evidence/protocols/asof_pending_counts.csv",
+    "sha256": "477f76c66e48422af0895e1175f971791fb1cd0113a13f0eb1e62be83ca6a85f",
+    "bytes": 669
+  },
+  {
+    "path": "evidence/protocols/calendar_O2_calendar_month_metrics.csv",
+    "sha256": "4555508c6ecc67deed2dc7f7d166ffbb9e715fee724dad29bd560829d1593ce0",
+    "bytes": 5298
+  },
+  {
+    "path": "evidence/protocols/calendar_O2_calendar_month_pairs.csv",
+    "sha256": "f364ab652d5e5a0e3bd717d4cd28f56b984a5fe1fd92abba8b2f488903b35f02",
+    "bytes": 6988
+  },
+  {
+    "path": "evidence/protocols/calendar_fit_summary.csv",
+    "sha256": "4e88b70ac519453c83e5e2fa9b3a40bb8d92268c7387422376ed2d95c3c26be1",
+    "bytes": 5118
+  },
+  {
+    "path": "evidence/protocols/calendar_four_origin_main_table.csv",
+    "sha256": "8b59d8f04ff2bc25a16c48fd87946a8822bfdf85e34dc0590122fa03ee2b6168",
+    "bytes": 6999
+  },
+  {
+    "path": "evidence/protocols/calendar_manuscript_comparison_table.csv",
+    "sha256": "4fb92dc06b0b5a2698fcde3f95cfcd9b53de1d9f47b23c5a7267e0f3a2183164",
+    "bytes": 8503
+  },
+  {
+    "path": "evidence/protocols/calendar_monthly_all_origins.csv",
+    "sha256": "5a0f972d731dad25ca61eac04c9d76161caa30dda08d14499b512e5d80d1a548",
+    "bytes": 17298
+  },
+  {
+    "path": "evidence/protocols/calendar_paired_encoding_minus_S0.csv",
+    "sha256": "920ed4745d8b494990bc2747995220c2c7245263ee55bfa6f1a405a337b10ac5",
+    "bytes": 18548
+  },
+  {
+    "path": "evidence/protocols/feature_dictionary_S1.csv",
+    "sha256": "ae72005717ddce6c07f997647bcb02cff65c28ba160790e339e9581f9b88f1f8",
+    "bytes": 4210
+  },
+  {
+    "path": "evidence/protocols/field_availability_prior_audit.csv",
+    "sha256": "c1263e7e752205e043388816f608abf14985500ce22cf402afbb5ed677999395",
+    "bytes": 478
+  },
+  {
+    "path": "evidence/protocols/monthly_status_counts.csv",
+    "sha256": "fc9eb6754b6c0a2dea60268f1ce6a5d68a11302cc181f29348f852456015d570",
+    "bytes": 3604
+  },
+  {
+    "path": "evidence/protocols/window_E16S1_metrics.csv",
+    "sha256": "03df270633419a9fecd718a67f256aab3c9b6257df9544b134b5c8f0b7dcd6cf",
+    "bytes": 3622
+  },
+  {
+    "path": "evidence/protocols/window_pool_summary.csv",
+    "sha256": "7fa1ea7765d1b63731b1d82b4d2c3b73aaa37c3d58b71306e59e9172093e6729",
+    "bytes": 3762
+  },
+  {
+    "path": "evidence/protocols/window_primary_pairs.csv",
+    "sha256": "c547f5bb50e15c8dfeabb8d0ef3545e828ef836b8f0c608f842850075d345c39",
+    "bytes": 1945
+  },
+  {
+    "path": "evidence/r2/analysis_manifest.json",
+    "sha256": "247f39be8e882ea941faacd425e7c74a26b4924b45b92a49a100ca4e96ea7265",
+    "bytes": 2327
+  },
+  {
+    "path": "evidence/r2/backbone_absolute_scores.csv",
+    "sha256": "ac59976125825498a12ddf6e6bb93857946b36fa88d9288b9a323a7859cfff60",
+    "bytes": 6348
+  },
+  {
+    "path": "evidence/r2/core_triplets_7day.csv",
+    "sha256": "0b6a4ff3cda8f6fe5c57055481840b5bec39106de9ca6cfb7663f1369f7245e8",
+    "bytes": 2381
+  },
+  {
+    "path": "evidence/r2/core_triplets_all_backbones_blocks.csv",
+    "sha256": "e0a564b50282480379e110f794ce1260070f2cfd3c7dec155bebd36e9ad7c9c2",
+    "bytes": 21722
+  },
+  {
+    "path": "evidence/r2/cross_backbone_effects.csv",
+    "sha256": "3b96e7c01a4166684b393f563c970e45d9e161c3b7776586a4bb2c0d01ca362a",
+    "bytes": 20083
+  },
+  {
+    "path": "evidence/r2/daily_model_sufficient_statistics.csv",
+    "sha256": "abbda22ded64b5be2d2b68768f335595d261fe63ae7cc31d87e76d949672915a",
+    "bytes": 204165
+  },
+  {
+    "path": "evidence/r2/daily_trajectory_with_frozen.csv",
+    "sha256": "864e21d471dceb595d433a3f53386afaae2b055ada988ebf0348d5fdc591a774",
+    "bytes": 103913
+  },
+  {
+    "path": "evidence/r2/frozen_extended_reconstruction.json",
+    "sha256": "db9b73253beacd181b6c3b91c6bec7326f76cf6b10ac8bb856de5fb8f40914f6",
+    "bytes": 889
+  },
+  {
+    "path": "evidence/r2/reconstruction_checks.csv",
+    "sha256": "c7ef9596fd0e39e2f7db60815ca202a0f19bef612a643a7016b88840c9a95d93",
+    "bytes": 24437
+  },
+  {
+    "path": "evidence/r2/unknown_followup_sets.csv",
+    "sha256": "349c3a8018fb6ec1c7d49d5e5cfc9256ba69fae4d85a29e11d014e1d35457a57",
+    "bytes": 6290
+  },
+  {
+    "path": "evidence/r2/unknown_outcome_triplet_bounds.csv",
+    "sha256": "047db00a3f885a82b35d4d209a50588cb09327bb4274007e67eca8ab4e7c31e8",
+    "bytes": 22195
+  },
+  {
+    "path": "evidence/r2/weekly_trajectory_with_frozen.csv",
+    "sha256": "ed36f7571d2db963449209820c4d2f42dae10358b566093c69c48e06dbc0e473",
+    "bytes": 18050
+  },
+  {
+    "path": "evidence/source_manifest.json",
+    "sha256": "b06c8169f2c335d62f7b829e04cf5d9a25bfc3b38b55183ea5f3d8ed0bcef072",
+    "bytes": 2041
+  },
+  {
+    "path": "evidence/splits.csv",
+    "sha256": "2d861e88154d7a05a481267189cc30d5a29bd43e538a01ee0b29df08c7fc3278",
+    "bytes": 1626
+  }
+]

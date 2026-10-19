@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "template_overlay": true,
+  "pages": 12,
+  "text_identical": true,
+  "render_72dpi_identical": true,
+  "references": 30,
+  "scope": "Fresh official-template extraction overlaid with delivered source; no fonts redistributed."
+}

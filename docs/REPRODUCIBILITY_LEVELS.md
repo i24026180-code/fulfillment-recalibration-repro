@@ -1,0 +1,1 @@
+See `REPRODUCTION_COVERAGE.csv` and the README for the authoritative current capability matrix. Public aggregate reconstruction re-estimates conditional paired intervals, whereas private-score replay and raw-data training are distinct layers. The original full-run records remain historical provenance, not new R2 executions.

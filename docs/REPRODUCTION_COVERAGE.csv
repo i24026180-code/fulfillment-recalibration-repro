@@ -1,0 +1,7 @@
+Layer,Entry,RequiredInput,ExecutedScope,NotEstablished
+Public aggregate reconstruction,scripts/rebuild_core_tables.py,Packaged evidence/r2 daily sums and ranges,"Tested: 216 core/backbone interval rows, 96 effect-difference intervals, 96 bound ranges","No training, no record-level identity verification"
+Figures and main LaTeX tables,scripts/make_revision_figures.py; scripts/make_revision_tables.py,Packaged aggregates,Tested; original Figure 1 not altered,No new fitting or inference
+Full R2 fixed-record analyses,scripts/align_core_comparisons.py,"Private extracted E17 records: predictions/, Core_*_pools.csv, metrics.csv, paired_intervals.csv, unknown_outcome_bounds.csv",Tested all four origins from private files,Does not rebuild features or fit a backbone
+E17 score-to-calibration replay,scripts/replay_e17_calibration.py,"Private E17 ZIP, described in E17_PORTABILITY.md","R2 smoke validation: O2, 12,209 queries, 420 pool rows","Other original validations remain dated provenance, not repeated R2 tests"
+Raw Olist S1 core pipeline,scripts/reproduce_olist_primary.py,User-acquired original Olist ZIP,Retained existing entry; not rerun in R2,Not full raw-data recreation of all E17 backbones/auxiliary studies
+DataCo/LaDe auxiliary outputs,evidence/auxiliary/,Packaged summaries plus independently acquired raw data for original runs,Aggregate evidence retained,No full new portable raw-data pipeline is claimed

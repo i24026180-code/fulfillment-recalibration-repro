@@ -1,0 +1,121 @@
+{
+  "revision": "v0.2.0",
+  "date": "2026-10-10",
+  "aggregate": {
+    "passed": true,
+    "arithmetic_checks": 1396,
+    "metric_rows": 76,
+    "paired_rows": 1212,
+    "unknown_bound_rows": 32,
+    "primary_evaluation_orders": 45805,
+    "evidence_files_checked": 127,
+    "figure1_sha256": "fa896fd874ef3824395cfa1c658f829accc76e866c93f4ca3f693a835a71fcd9",
+    "scope": "Aggregate reconstruction only; frozen intervals checked arithmetically, not recomputed"
+  },
+  "private_score_replay": [
+    {
+      "passed": true,
+      "origin": "O1",
+      "rows": 8539,
+      "pool_rows": 420,
+      "prediction_max_abs_error": {
+        "Raw": 0.0,
+        "Frozen": 1.4988010832439613e-15,
+        "Expanding": 1.887379141862766e-15,
+        "Rolling60": 2.220446049250313e-15,
+        "Approval60": 2.275957200481571e-15,
+        "PoolRate": 1.0061396160665481e-16,
+        "Platt": 2.6506574712925612e-15,
+        "BrierOpt": 1.1121068954622615e-08
+      },
+      "pool_parameter_max_abs_error": {
+        "Intercept": 6.090711379691527e-08,
+        "Slope": 1.609823385706477e-14,
+        "PoolRate": 9.71445146547012e-17,
+        "MeanOrderAge": 1.4210854715202004e-14
+      },
+      "atol": 1e-07,
+      "scope": "Private-score calibration replay; no LR retraining or feature reconstruction",
+      "private_records_written": false
+    },
+    {
+      "passed": true,
+      "origin": "O2",
+      "rows": 12209,
+      "pool_rows": 420,
+      "prediction_max_abs_error": {
+        "Raw": 0.0,
+        "Frozen": 5.551115123125783e-16,
+        "Expanding": 6.661338147750939e-16,
+        "Rolling60": 6.661338147750939e-16,
+        "Approval60": 6.106226635438361e-16,
+        "PoolRate": 9.71445146547012e-17,
+        "Platt": 4.666594333180285e-09,
+        "BrierOpt": 8.442850418788339e-09
+      },
+      "pool_parameter_max_abs_error": {
+        "Intercept": 3.379290869354179e-08,
+        "Slope": 6.800881302559958e-09,
+        "PoolRate": 9.71445146547012e-17,
+        "MeanOrderAge": 1.4210854715202004e-14
+      },
+      "atol": 1e-07,
+      "scope": "Private-score calibration replay; no LR retraining or feature reconstruction",
+      "private_records_written": false
+    },
+    {
+      "passed": true,
+      "origin": "O3",
+      "rows": 13407,
+      "pool_rows": 420,
+      "prediction_max_abs_error": {
+        "Raw": 0.0,
+        "Frozen": 2.220446049250313e-16,
+        "Expanding": 3.3306690738754696e-16,
+        "Rolling60": 3.3306690738754696e-16,
+        "Approval60": 3.3306690738754696e-16,
+        "PoolRate": 1.1102230246251565e-16,
+        "Platt": 1.0269562977782698e-15,
+        "BrierOpt": 1.054377940512552e-08
+      },
+      "pool_parameter_max_abs_error": {
+        "Intercept": 4.223458249796863e-08,
+        "Slope": 1.9984014443252818e-15,
+        "PoolRate": 9.71445146547012e-17,
+        "MeanOrderAge": 7.105427357601002e-15
+      },
+      "atol": 1e-07,
+      "scope": "Private-score calibration replay; no LR retraining or feature reconstruction",
+      "private_records_written": false
+    },
+    {
+      "passed": true,
+      "origin": "O4",
+      "rows": 11650,
+      "pool_rows": 420,
+      "prediction_max_abs_error": {
+        "Raw": 0.0,
+        "Frozen": 2.220446049250313e-16,
+        "Expanding": 3.0531133177191805e-16,
+        "Rolling60": 3.885780586188048e-16,
+        "Approval60": 4.996003610813204e-16,
+        "PoolRate": 9.71445146547012e-17,
+        "Platt": 4.440892098500626e-16,
+        "BrierOpt": 4.25204871312701e-09
+      },
+      "pool_parameter_max_abs_error": {
+        "Intercept": 6.330288079836599e-08,
+        "Slope": 1.9984014443252818e-15,
+        "PoolRate": 9.71445146547012e-17,
+        "MeanOrderAge": 7.105427357601002e-15
+      },
+      "atol": 1e-07,
+      "scope": "Private-score calibration replay; no LR retraining or feature reconstruction",
+      "private_records_written": false
+    }
+  ],
+  "new_predictive_fits": 0,
+  "raw_pipeline": "CLI help/import only in this edit; historical raw core fit verification retained separately",
+  "github_workflow": "included but not executed on GitHub",
+  "public_release": "not performed"
+}

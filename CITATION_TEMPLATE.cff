@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the original datasets when using these materials."
+title: "Temporal Sensitivity of Historical Intercept Recalibration for Fulfillment-Risk Prediction: Reproducibility Materials"
+type: software
+version: 0.3.0
+keywords:
+  - probability calibration
+  - temporal shift
+  - fulfillment risk
+  - reproducibility
+# TODO: authors must supply names, ORCID, DOI, and final publication metadata before release.

@@ -1,0 +1,4 @@
+﻿Dataset,Family,Candidate,Params,InnerFitAsOf,FinalFitAsOf,InnerTrainN,InnerTrainMaxFeedback,InnerValidationN,InnerValidationMaxFeedback,Brier,Seconds,Seed,Threads,Backend,Warnings
+Olist_delivered,CatBoost,0,"{""depth"": 4, ""iterations"": 300, ""learning_rate"": 0.05, ""l2_leaf_reg"": 3}",2017-10-01 00:00:00,2018-01-01 00:00:00,24804,2017-09-30 20:09:53,14827,2017-12-31 15:19:16,0.05398270527503353,3.88242770000943,20261009,4,GPU0,
+Olist_delivered,CatBoost,1,"{""depth"": 6, ""iterations"": 300, ""learning_rate"": 0.05, ""l2_leaf_reg"": 3}",2017-10-01 00:00:00,2018-01-01 00:00:00,24804,2017-09-30 20:09:53,14827,2017-12-31 15:19:16,0.054022218964902655,5.107492600000114,20261009,4,GPU0,
+Olist_delivered,CatBoost,2,"{""depth"": 8, ""iterations"": 300, ""learning_rate"": 0.05, ""l2_leaf_reg"": 3}",2017-10-01 00:00:00,2018-01-01 00:00:00,24804,2017-09-30 20:09:53,14827,2017-12-31 15:19:16,0.05412470763367803,8.082174199997098,20261009,4,GPU0,

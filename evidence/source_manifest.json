@@ -1,0 +1,44 @@
+{
+  "archive_name": "完整实验结果包_E0-E16_S0-S3_E16-S1_20261009.zip",
+  "archive_sha256": "e583b8ebb54bb48dd62b0e4163682ca257c390b89c7e1fbed50a10f4ac22dc69",
+  "source_entries": {
+    "calendar": {
+      "path": "01_此前完整包/02_月份编码敏感性S0-S3/manuscript_comparison_table.csv",
+      "sha256": "4fb92dc06b0b5a2698fcde3f95cfcd9b53de1d9f47b23c5a7267e0f3a2183164"
+    },
+    "metrics": {
+      "path": "02_E16-S1复验/E16S1_metrics.csv",
+      "sha256": "03df270633419a9fecd718a67f256aab3c9b6257df9544b134b5c8f0b7dcd6cf"
+    },
+    "pairs": {
+      "path": "02_E16-S1复验/primary_pairs.csv",
+      "sha256": "c547f5bb50e15c8dfeabb8d0ef3545e828ef836b8f0c608f842850075d345c39"
+    },
+    "pool": {
+      "path": "02_E16-S1复验/pool_summary.csv",
+      "sha256": "7fa1ea7765d1b63731b1d82b4d2c3b73aaa37c3d58b71306e59e9172093e6729"
+    },
+    "splits": {
+      "path": "01_此前完整包/01_原E0-E16冻结包/04_历史实验/E13_E15_E16/E15_split_summary.csv",
+      "sha256": "17be72abb86bb002d9f15afca40e72e3e5532ed2af9c4e17ddc1efec8634ad93"
+    },
+    "dataco": {
+      "path": "01_此前完整包/01_原E0-E16冻结包/04_历史实验/E0_E10/01_main_tables/02_DataCo_key_results.csv",
+      "sha256": "6013d1dd6f56133279c3a7e5bd150d1aa617638a7ca9a4c650a63ef5f151edb7"
+    },
+    "lade": {
+      "path": "01_此前完整包/01_原E0-E16冻结包/04_历史实验/E13_E15_E16/Table3_E13_Jilin_L0.csv",
+      "sha256": "df1f7ae225623968c30e1640491467ccf8b3f5493e88c09df5481bb13a51a54e"
+    },
+    "lade_pairs": {
+      "path": "01_此前完整包/01_原E0-E16冻结包/01_论文主结果/E13_paired_intervals.csv",
+      "sha256": "b4278b419513ec444b06935d897f3eae93bb8483ee7161ecfb30a7d6c9943194"
+    }
+  },
+  "checks": {
+    "main_S1_origins": 4,
+    "evaluation_orders": 45805,
+    "loss_decomposition_exact": true
+  },
+  "scope": "Reuses supplied frozen experimental summaries; no models refitted, no new inferential procedure. Constant-baseline scores and S1 loss contributions are algebraic reconstructions."
+}

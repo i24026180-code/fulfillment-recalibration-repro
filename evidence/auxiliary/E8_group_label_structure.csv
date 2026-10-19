@@ -1,0 +1,9 @@
+﻿canceled,same_day,group,promise_days,size,sum,mean
+False,False,0,1,9602,9602,1.0
+False,False,1,2,12256,9803,0.799853133159269
+False,False,2,4,37632,14995,0.3984640731292517
+False,True,3,0,3407,1648,0.48371000880540066
+True,False,0,1,477,0,0.0
+True,False,1,2,522,0,0.0
+True,False,2,4,1692,0,0.0
+True,True,3,0,164,0,0.0

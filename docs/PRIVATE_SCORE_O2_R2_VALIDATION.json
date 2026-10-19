@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "origin": "O2",
+  "rows": 12209,
+  "pool_rows": 420,
+  "prediction_max_abs_error": {
+    "Raw": 0.0,
+    "Frozen": 5.551115123125783e-16,
+    "Expanding": 6.661338147750939e-16,
+    "Rolling60": 6.661338147750939e-16,
+    "Approval60": 6.106226635438361e-16,
+    "PoolRate": 9.71445146547012e-17,
+    "Platt": 4.666594333180285e-09,
+    "BrierOpt": 8.442850418788339e-09
+  },
+  "pool_parameter_max_abs_error": {
+    "Intercept": 3.379290869354179e-08,
+    "Slope": 6.800881302559958e-09,
+    "PoolRate": 9.71445146547012e-17,
+    "MeanOrderAge": 1.4210854715202004e-14
+  },
+  "atol": 1e-07,
+  "scope": "Private-score calibration replay; no LR retraining or feature reconstruction",
+  "private_records_written": false
+}

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": 504,
+  "max_abs_difference": 2.5680802970273753e-13,
+  "paired_intervals_rebuilt": 216,
+  "cross_backbone_intervals_rebuilt": 96,
+  "unknown_ranges_checked": 96,
+  "input_scope": "Public daily sufficient statistics and aggregated unknown-loss bounds; no record-level or model reproduction",
+  "no_training": true
+}

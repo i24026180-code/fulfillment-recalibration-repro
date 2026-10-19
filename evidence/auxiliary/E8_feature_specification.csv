@@ -1,0 +1,20 @@
+﻿Feature,Kind,Availability
+promise_days,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+item_count,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+product_count,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+category_count,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+quantity,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+order_value_proxy,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+gross_value,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+discount_value,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+order_year,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+order_month,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+order_weekday,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+order_hour,numeric,Assumed order-creation information; Type assumed fixed transaction choice
+shipping_mode,categorical,Assumed order-creation information; Type assumed fixed transaction choice
+customer_segment,categorical,Assumed order-creation information; Type assumed fixed transaction choice
+order_country,categorical,Assumed order-creation information; Type assumed fixed transaction choice
+order_region,categorical,Assumed order-creation information; Type assumed fixed transaction choice
+market,categorical,Assumed order-creation information; Type assumed fixed transaction choice
+transaction_type,categorical,Assumed order-creation information; Type assumed fixed transaction choice
+largest_item_category,categorical,Assumed order-creation information; Type assumed fixed transaction choice
